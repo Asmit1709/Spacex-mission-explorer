@@ -88,7 +88,7 @@ Open [http://localhost:8080](http://localhost:8080) to view it in your browser.
 ## 🌐 Deployment & Demo
 
 This app can be deployed to Vercel, Netlify, or GitHub Pages.
-**Live Demo**: *(Add your deployment link here once available)*
+**Live Demo**: *([Add your deployment link here once available](https://spacexmissionexplorer.netlify.app/))*
 
 ---
 
